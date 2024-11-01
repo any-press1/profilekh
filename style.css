@@ -129,6 +129,9 @@ section{
     color: rgb(67, 127, 255);
     margin: 10px;
 }
+.info a{
+    text-decoration: none;
+}
 .projects{
     background: #000716;
 }
